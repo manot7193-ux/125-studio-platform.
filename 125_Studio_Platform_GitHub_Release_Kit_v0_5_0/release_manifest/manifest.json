@@ -1,0 +1,36 @@
+{
+  "platform": "125 Studio Platform",
+  "generated_at": "2026-07-05 19:35:00",
+  "source": "GitHub Raw / 125 Studio Server",
+  "server_url": "https://raw.githubusercontent.com/YOUR_USERNAME/125-studio-platform/main/release_manifest/manifest.json",
+  "extensions": [
+    {
+      "id": "platform_core",
+      "name": "125 Studio Platform Core",
+      "latest_version": "0.5.0",
+      "rbz_url": "https://github.com/YOUR_USERNAME/125-studio-platform/releases/download/v0.5.0/125_Studio_Platform_MVP_v0_5_0_GitHub_Ready.rbz",
+      "notes": "GitHub-ready update center, online manifest URL, real RBZ download flow."
+    },
+    {
+      "id": "smart_lintel",
+      "name": "Smart Lintel BOQ",
+      "latest_version": "1.1.2",
+      "rbz_url": "https://github.com/YOUR_USERNAME/125-studio-platform/releases/download/smart-lintel-v1.1.2/125_Studio_Smart_Lintel_BOQ_v1_1_2.rbz",
+      "notes": "ปรับปรุงการนับเอ็น ทับหลัง เซี้ยม และแก้ภาษาไทย"
+    },
+    {
+      "id": "steel_pro",
+      "name": "Steel Structure Pro",
+      "latest_version": "1.3.4",
+      "rbz_url": "https://github.com/YOUR_USERNAME/125-studio-platform/releases/download/steel-pro-v1.3.4/125_Steel_Structure_Pro_v1_3_4.rbz",
+      "notes": "เพิ่ม cellular beam และปรับ BOQ ความยาวเหล็ก"
+    },
+    {
+      "id": "mep_boq",
+      "name": "MEP Quick BOQ",
+      "latest_version": "0.5.1",
+      "rbz_url": "https://github.com/YOUR_USERNAME/125-studio-platform/releases/download/mep-v0.5.1/125_Studio_MEP_Quick_v0_5_1.rbz",
+      "notes": "ปรับ export และฐานข้อมูลงานไฟฟ้า/สุขาภิบาล"
+    }
+  ]
+}
