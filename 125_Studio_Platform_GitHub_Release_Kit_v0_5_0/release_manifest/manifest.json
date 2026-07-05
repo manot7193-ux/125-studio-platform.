@@ -2,34 +2,34 @@
   "platform": "125 Studio Platform",
   "generated_at": "2026-07-05 19:35:00",
   "source": "GitHub Raw / 125 Studio Server",
-  "server_url": "sha256:8d9bc1f39bf08b817f49e6b74d75222043cc392089703cb1bed4d93ab6b75213",
+  "server_url": "https://github.com/manot7193-ux/125-studio-platform.",
   "extensions": [
     {
       "id": "platform_core",
       "name": "125 Studio Platform Core",
       "latest_version": "0.5.0",
-      "rbz_url": "sha256:8d9bc1f39bf08b817f49e6b74d75222043cc392089703cb1bed4d93ab6b75213",
+      "rbz_url": "https://github.com/manot7193-ux/125-studio-platform.",
       "notes": "GitHub-ready update center, online manifest URL, real RBZ download flow."
     },
     {
       "id": "smart_lintel",
       "name": "Smart Lintel BOQ",
       "latest_version": "1.1.2",
-      "rbz_url": "sha256:8d9bc1f39bf08b817f49e6b74d75222043cc392089703cb1bed4d93ab6b75213",
+      "rbz_url": "https://github.com/manot7193-ux/125-studio-platform.",
       "notes": "ปรับปรุงการนับเอ็น ทับหลัง เซี้ยม และแก้ภาษาไทย"
     },
     {
       "id": "steel_pro",
       "name": "Steel Structure Pro",
       "latest_version": "1.3.4",
-      "rbz_url": "https://sha256:8d9bc1f39bf08b817f49e6b74d75222043cc392089703cb1bed4d93ab6b75213",
+      "rbz_url": "https://https://github.com/manot7193-ux/125-studio-platform.",
       "notes": "เพิ่ม cellular beam และปรับ BOQ ความยาวเหล็ก"
     },
     {
       "id": "mep_boq",
       "name": "MEP Quick BOQ",
       "latest_version": "0.5.1",
-      "rbz_url": "sha256:8d9bc1f39bf08b817f49e6b74d75222043cc392089703cb1bed4d93ab6b75213",
+      "rbz_url": "https://github.com/manot7193-ux/125-studio-platform.",
       "notes": "ปรับ export และฐานข้อมูลงานไฟฟ้า/สุขาภิบาล"
     }
   ]
